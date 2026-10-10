@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\VS\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.Form1.resources
+C:\Users\Administrator\Desktop\VS\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VS\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\VS\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.csproj.CoreCompileInputs.cache
